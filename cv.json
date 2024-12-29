@@ -1,0 +1,310 @@
+{
+  "basics": {
+    "name": "Shamim Ahamed S",
+    "label": "Junior Full Stack Developer",
+    "image": "/profile.jpg",
+    "email": "shamim.qwerty2804@gmail.com",
+    "phone": "+91 7418119204",
+    "url": "https://johndoe.dev",
+    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "theme": "default",
+    "location": {
+      "address": "T-34,Kovaipudur,Coimbatore,TN,India",
+      "postalCode": "641042",
+      "city": "Kovaipudur",
+      "countryCode": "IN",
+      "region": "Coimbatore"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "shamim-ahamed-s-2101a5284",
+        "url": "https://www.linkedin.com/in/shamim-ahamed-s-2101a5284/"
+      },
+      {
+        "network": "GitHub",
+        "username": "SA2804",
+        "url": "https://github.com/SA2804"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Zidio Development",
+      "position": "Web Developer Intern",
+      "location_type": "Remote",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://zidio.in/",
+      "startDate": "May '24",
+      "endDate": "Jul '24",
+      "summary": "Developed expertise in the PERN stack and version control, leading to the creation of two robust full-stack web applications: a resume builder and a job portal.",
+      "highlights": [
+        ""
+      ],
+      "responsibilities": [
+        "Take ownership of tasks to deliver high-quality work on time, actively participate in code review sessions, and consistently meet deadlines."
+      ],
+      "achievements": [
+        "Independently developed and deployed both the frontend and backend of two comprehensive full-stack projects over a period of two months, earning a letter of appreciation from the company for dedication and excellence."
+      ],
+      "skills": [
+        "React",
+        "Tailwind",
+        "GitHub",
+        "PostgreSQL",
+        "Node.js",
+        "Express.js"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "National Institute of Technology,Tiruchirappalli",
+      "url": "https://nitt.edu/",
+      "area": "Mechanical Major",
+      "studyType": "B.Tech",
+      "startDate": "2022-11-01",
+      "endDate": "2026-06-01",
+      "score": "CGPA - 8.24",
+      "image":"https://imgs.search.brave.com/vzKmw7BXjb5j0_VGtYzUsEilqI3ipNd-tOt7hDOT24Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZHJLTjJ1M1d0/L3cvMzE4L2gvMzE0/L3RoZW1lL2xpZ2h0/L2xvZ28ucG5nP2M9/MWJ4MTczNTk5Nzk4/MjQ1NGlkNjRNdXA3/YWNsZ3Rocm5UdCZ0/PTE3MjcyMzkzMjEz/OTE"
+    },
+    {
+      "institution": "Indian School Muscat",
+      "url": "https://ismoman.com/",
+      "area": "Class 12th (CBSE) - Science Stream with CS",
+      "studyType": "Associate Degree",
+      "startDate": "2021-01-01",
+      "endDate": "2022-12-01",
+      "score": "Percentage - 90.4%",
+      "image":"https://imgs.search.brave.com/_VuHXpryse-QTWDOHIj1m4BrbIQEMzvfM64RsMGZNCE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZWRhcmFiaWEuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDEw/LzAxL2luZGlhbi1z/Y2hvb2wtbXVzY2F0/LmpwZw"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Full Stack Web Development Bootcamp",
+      "date": "Apr 2024",
+      "issuer": "Issuer - Udemy",
+      "url": "https://www.udemy.com/certificate/UC-5642fe3b-8e8e-4023-bb93-22e3a1ce0e71/",
+      "logo":"https://imgs.search.brave.com/pdHkB7SH3N4Xlu_YoIcp_VgeRLZe9v2sAUln49NrfiA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvdWRl/bXktMS1sb2dvLXBu/Zy10cmFuc3BhcmVu/dC5wbmc"
+    },
+    {
+      "name":"Java Basic",
+      "date":"Aug 2024",
+      "issuer":"Issuer - HackerRank",
+      "url":"https://www.hackerrank.com/certificates/8c35ff838bb9",
+      "logo":"https://imgs.search.brave.com/AvoqYvklsPlCE90s0pU5_Dd0PijpnAUx_BPFIMtKkPk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9oYWNrZXJyYW5r/LnN2Zw"
+    },
+    {
+      "name":"SQL Basic",
+      "date":"Oct 2024",
+      "issuer":"Issuer - HackerRank",
+      "url":"https://www.hackerrank.com/certificates/iframe/e3838343a246",
+      "logo":"https://imgs.search.brave.com/AvoqYvklsPlCE90s0pU5_Dd0PijpnAUx_BPFIMtKkPk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9oYWNrZXJyYW5r/LnN2Zw"
+    },
+    {
+      "name":"Cloud Computing",
+      "date":"Nov 2024",
+      "issuer":"Issuer - NPTEL",
+      "url":"https://nptel.ac.in/noc/E_Certificate/NPTEL24CS118S95540152504292442",
+      "logo":"https://imgs.search.brave.com/XO6EYn7Gmv1LDZrePiBTFrz639z8ao7TID8j2n1kNNo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL3N3YXlh/bTJfY2VudHJhbC9h/c3NldHMvaW1nL3N3/YXlhbV9pbWFnZXMv/TkNfbG9nby9OUFRF/TF9sb2dvXzEyOC5w/bmc"
+
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency "
+    },
+    {
+      "language": "Tamil",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Professional working proficiency "
+    },
+    {
+      "language": "Malayalam",
+      "fluency": "Limited working proficiency "
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Java",
+        "Web Development",
+        "BlockChain"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Synergy Website",
+      "isActive": true,
+      "description": "Collaborated with a dynamic team to design and deploy a cutting-edge website for Synergy, the National Level Technical Symposium of the Mechanical Engineering Department at NIT Trichy.",
+      "highlights": [
+        " harnessed the power of Next.js, React.js, TypeScript, and Tailwind CSS to create a seamless and responsive user experience."
+      ],
+      "url": "https://synergy.nitt.edu/24",
+      "github": ""
+    },{
+      "name": "Personal Portfolio",
+      "isActive": true,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS"
+      ],
+      "url": "",
+      "github": "https://github.com"
+    },
+    {
+      "name": " Velocity Verse:",
+      "isActive": false,
+      "description": "A capstone project that aims at creating and viewing blog posts. Posts will not persist between sessions as no database is used in the current version of the application.",
+      "highlights": [
+        "Built with JavaScript",
+        "Responsive design"
+      ],
+      "github": "https://github.com/SA2804/Blog-App"
+    },
+    {
+      "name": "WeatherWhiz",
+      "isActive": true,
+      "description": " A simple weather web app built using the Express/Node.js platform, with the Axios HTTP client, which integrates a chosen public API. The app interacts with the chosen API, retrieves weather data, and presents it in a user-friendly way",
+      "highlights": [
+        "Built with Node.js and PostgreSQL",
+        "API"
+      ],
+      "url": "https://weatherwhiz-abez.onrender.com/",
+      "github": "https://github.com/SA2804/Weather-App"
+    },
+    {
+      "name": "Trackify",
+      "isActive": false,
+      "description": "A Todoist web application built with a monorepo structure, utilizing the PERN stack (PostgreSQL, Express.js, React, Node.js) for full-stack development. The project includes both server and client codebases, demonstrating proficiency in backend and frontend development within a unified codebase.",
+      "highlights": [
+        "PERN expertise"
+      ],
+      "url": "",
+      "github":"https://github.com/SA2804/PERN_Todo_App"
+    }
+  ]
+}
